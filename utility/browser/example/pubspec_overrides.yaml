@@ -1,0 +1,4 @@
+# melos_managed_dependency_overrides: browser
+dependency_overrides:
+  browser:
+    path: ..

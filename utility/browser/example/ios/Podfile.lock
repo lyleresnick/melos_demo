@@ -1,0 +1,22 @@
+PODS:
+  - browser (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - browser (from `.symlinks/plugins/browser/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  browser:
+    :path: ".symlinks/plugins/browser/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  browser: 48eddc776896db9024b44af96a4ed37cec58084b
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+
+PODFILE CHECKSUM: c4c93c5f6502fe2754f48404d3594bf779584011
+
+COCOAPODS: 1.14.3
