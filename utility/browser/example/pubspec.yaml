@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  payment: ^0.0.4
+  payment: ^0.0.5
   register: ^0.0.4
 
 
