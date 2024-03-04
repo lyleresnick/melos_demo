@@ -12,7 +12,7 @@ dependencies:
   flutter:
     sdk: flutter
   payment: ^0.0.4
-  register: ^0.0.3
+  register: ^0.0.4
 
 
   browser:
