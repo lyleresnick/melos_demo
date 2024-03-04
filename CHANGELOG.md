@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`register` - `v0.0.3`](#register---v003)
+
+---
+
+#### `register` - `v0.0.3`
+
+ - y
+
+
+## 2024-03-03
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`register` - `v0.0.2`](#register---v002)
 
 ---
