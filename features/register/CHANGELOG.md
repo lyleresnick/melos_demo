@@ -1,3 +1,7 @@
+## 0.0.6
+
+ - **FEAT**: double increment.
+
 ## 0.0.5
 
  - Bump "register" to `0.0.5`.
