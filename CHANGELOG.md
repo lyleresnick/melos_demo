@@ -15,6 +15,27 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`register` - `v0.0.2`](#register---v002)
+
+---
+
+#### `register` - `v0.0.2`
+
+ - hello
+
+
+## 2024-03-03
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`payment` - `v0.0.2`](#payment---v002)
 
 ---

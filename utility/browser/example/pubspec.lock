@@ -109,9 +109,10 @@ packages:
   payment:
     dependency: "direct main"
     description:
-      path: "../../../features/payment"
-      relative: true
-    source: path
+      name: payment
+      sha256: f7889bffcd41e0bf654aa5f7a46ce082abffd9df89dc04ff56fceb203bc83966
+      url: "https://pub.dev"
+    source: hosted
     version: "0.0.1"
   register:
     dependency: "direct main"
