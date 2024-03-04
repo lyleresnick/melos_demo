@@ -21,6 +21,27 @@ Packages with other changes:
 
 #### `register` - `v0.0.2`
 
+ - Bump "register" to `0.0.2`.
+
+
+## 2024-03-03
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`register` - `v0.0.2`](#register---v002)
+
+---
+
+#### `register` - `v0.0.2`
+
  - hello
 
 

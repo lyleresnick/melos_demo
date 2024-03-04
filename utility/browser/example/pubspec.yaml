@@ -11,8 +11,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  payment: 0.0.1
+  payment: ^0.0.1
   register: ^0.0.2
+
 
   browser:
     # When depending on this package from a real application you should use:
