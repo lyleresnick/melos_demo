@@ -109,18 +109,17 @@ packages:
   payment:
     dependency: "direct main"
     description:
-      name: payment
-      sha256: f7889bffcd41e0bf654aa5f7a46ce082abffd9df89dc04ff56fceb203bc83966
-      url: "https://pub.dev"
-    source: hosted
-    version: "0.0.1"
+      path: "../../../features/payment"
+      relative: true
+    source: path
+    version: "0.0.4"
   register:
     dependency: "direct main"
     description:
       path: "../../../features/register"
       relative: true
     source: path
-    version: "0.0.2"
+    version: "0.0.4"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -192,4 +191,3 @@ packages:
     version: "0.3.0"
 sdks:
   dart: ">=3.2.0-194.0.dev <4.0.0"
-  flutter: ">=1.17.0"

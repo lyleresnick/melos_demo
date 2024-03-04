@@ -1,4 +1,8 @@
-# melos_managed_dependency_overrides: browser
+# melos_managed_dependency_overrides: browser,payment,register
 dependency_overrides:
   browser:
     path: ..
+  payment:
+    path: ../../../features/payment
+  register:
+    path: ../../../features/register
