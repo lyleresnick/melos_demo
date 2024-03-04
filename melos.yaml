@@ -1,4 +1,5 @@
 name: melos_demo
+repository: https://github.com/lyleresnick/melos_demo
 
 packages:
   - utility/**
